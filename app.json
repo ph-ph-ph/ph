@@ -1,0 +1,14 @@
+{
+    "name": "S",
+    "description": "S",
+    "keywords": ["S"],
+    "env": {
+        "UUID": {
+            "description": "S S UUID",
+            "value": "<--Please Enter UUID!-->"
+        }
+    },
+    "website": "S",
+    "repository": "S",
+    "stack": "container"
+}
